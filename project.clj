@@ -36,6 +36,7 @@
         "extensions/bidi" ; URI routing library
         "extensions/cljs-builder" ; ClojureScript compilation
         "extensions/compojure" ; URI routing library
+        "extensions/datomic" ; Datomic client library
         "extensions/http-kit" ; HTTP server (with client library)
         "extensions/jetty" ; HTTP server
         "extensions/netty" ; Generic network server library
